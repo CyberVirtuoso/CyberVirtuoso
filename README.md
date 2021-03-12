@@ -15,7 +15,9 @@
 ### 📲 Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-2a2a2a?style=for-the-badge&logo=instagram&)](https://www.instagram.com/dedmaster.developer/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedmasterDeveloper&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DedmasterDeveloper&count_private=true&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DedmasterDeveloper)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ### Hi there 👋
