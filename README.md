@@ -1,6 +1,6 @@
 [![Header](https://github.com/DedmasterDeveloper/DedmasterDeveloper/blob/main/assets/header.png)](https://www.instagram.com/dedmaster.developer/)
 
-## 👋 Hello everyone, I'm from St. Petersburg, I'm 20 years old and I'm a beginner C# developer
+## 👋 Hello everyone, I'm from St. Petersburg, I'm 21 years old and I'm a beginner C# developer
 
 ### 🛠 Languages and Tools
 ![.NET](https://img.shields.io/badge/-.NET-2a2a2a?style=for-the-badge&logo=.NET&logoColor=652e79)
