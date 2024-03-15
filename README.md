@@ -74,10 +74,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=DedmasterDeveloper&theme=dark&locale=ru" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=CyberVirtuoso&theme=dark&locale=ru" alt="GitHub Streak" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DedmasterDeveloper&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CyberVirtuoso&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
